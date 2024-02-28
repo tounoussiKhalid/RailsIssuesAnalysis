@@ -1,0 +1,6 @@
+requests
+pandas
+matplotlib
+seaborn
+plotly>=5.0.0
+kaleido==0.1.0.post1
